@@ -7,6 +7,5 @@ For the code, I followed <i>The Coding Train</i>'s YouTube video as a reference.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KkyIDI6rQJI" target="_blank">
   <img src="http://img.youtube.com/vi/KkyIDI6rQJI/0.jpg" 
        alt="Coding Challenge #4: Purple Rain in Processing" 
-       width="480" 
-       target="_blank"/>
+       width="480"/>
 </a>
