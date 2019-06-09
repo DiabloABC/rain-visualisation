@@ -1,8 +1,6 @@
 # Rain Visualisation
 After wanting to make random programs, I finally decided to work on a simple program that visualises rain (as the name suggests).
 
-![alt text](https://im.ezgif.com/tmp/ezgif-1-deb2c96b5b56.gif "Rain Visualisation")
-
 ## Languages Used
 * HTML as a platform to display the program
 * JavaScript for the actual code of the program. Specifically, I used p5.js, which is a JavaScript library that is used for graphic programs.
